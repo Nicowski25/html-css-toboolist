@@ -25,10 +25,11 @@ body {
     margin: 3rem;
     background-color: white;
     width: 70%;
-    height: 500px;
+    height: fit-content;
     padding-inline: 2rem;
     padding-top: 1rem;
     border-radius: 10px;
+    padding-bottom: 1rem;
 }
 
 #addtask {
@@ -47,4 +48,52 @@ body {
 
 #dropmenu {
     margin: 20px;
+}
+
+.editorial_badge {
+    background-color: dodgerblue;
+    border-radius: 10px;
+    font-size: smaller;
+    color: white;
+    padding: 5px;
+}
+
+.q1_badge {
+    background-color:blueviolet ;
+    border-radius: 10px;
+    font-size: smaller;
+    color: white;
+    padding: 5px;
+}
+
+.recruiting_badge {
+    background-color:seagreen ;
+    border-radius: 10px;
+    font-size: smaller;
+    color: white;
+    padding: 5px;
+}
+
+.mobile_badge {
+    background-color:rgb(255, 178, 36) ;
+    border-radius: 10px;
+    font-size: smaller;
+    color: white;
+    padding: 5px;
+}
+
+.website_badge {
+    background-color:rgb(255, 36, 127) ;
+    border-radius: 10px;
+    font-size: smaller;
+    color: white;
+    padding: 5px;
+}
+
+.saeles_badge {
+    background-color:rgb(143, 255, 109) ;
+    border-radius: 10px;
+    font-size: smaller;
+    color: white;
+    padding: 5px;
 }
