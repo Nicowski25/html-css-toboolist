@@ -22,10 +22,10 @@ body {
 }
 
 #container {
-    margin: 3rem;
+    margin: auto;
+    margin-top: 3rem;
     background-color: white;
     width: 70%;
-    height: fit-content;
     padding-inline: 2rem;
     padding-top: 1rem;
     border-radius: 10px;
@@ -36,7 +36,7 @@ body {
     background-color: royalblue; 
     margin-left: 20px;
     padding: 10px;
-    border-radius: 10px; 
+    border-radius: 10px;
 }
 
 #addsection {
