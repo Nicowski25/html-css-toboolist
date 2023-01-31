@@ -1,0 +1,26 @@
+body {
+    background-color: antiquewhite;
+}
+
+#app-header {
+    background-color: white;
+}
+
+#logo {
+    vertical-align: middle;
+}
+
+#namelogo {
+    font-size: 3rem;
+    margin: auto;
+}
+
+#container {
+    margin: 3rem;
+    background-color: white;
+    width: 70%;
+    height: 500px;
+    padding-inline: 2rem;
+    padding-top: 1rem;
+}
+
