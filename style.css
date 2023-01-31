@@ -1,9 +1,14 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
 body {
-    background-color: antiquewhite;
+    background-color:darkgrey;
 }
 
 #app-header {
     background-color: white;
+    padding: 1rem;
 }
 
 #logo {
@@ -13,6 +18,7 @@ body {
 #namelogo {
     font-size: 3rem;
     margin: auto;
+    vertical-align: middle;
 }
 
 #container {
@@ -22,5 +28,23 @@ body {
     height: 500px;
     padding-inline: 2rem;
     padding-top: 1rem;
+    border-radius: 10px;
 }
 
+#addtask {
+    background-color: royalblue; 
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 10px; 
+}
+
+#addsection {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    color: grey;
+}
+
+#dropmenu {
+    margin: 20px;
+}
